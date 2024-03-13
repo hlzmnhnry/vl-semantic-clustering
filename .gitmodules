@@ -1,0 +1,3 @@
+[submodule "pytorch-NetVlad"]
+	path = pytorch-NetVlad
+	url = https://github.com/hlzmnhnry/pytorch-NetVlad.git
