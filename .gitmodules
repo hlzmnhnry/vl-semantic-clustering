@@ -4,3 +4,6 @@
 [submodule "sem-clustering"]
 	path = sem-clustering
 	url = https://github.com/hlzmnhnry/sem-clustering
+[submodule "sem-training"]
+	path = sem-training
+	url = https://github.com/hlzmnhnry/sem-training.git

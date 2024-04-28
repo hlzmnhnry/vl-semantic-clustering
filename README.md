@@ -16,4 +16,4 @@ For semantic clustering we used a script for learning (semantic) clusters based 
 
 ## Semantic Segmentation
 
-TODO: upload code for semantic segmentation.
+Results of semantic segmentation are used as input for semantic clustering. For this, we trained a model that segments aerial captures in grayscale into basic forms of land cover. Our code for this is based on [pytorch-segmentation](https://github.com/yassouali/pytorch-segmentation) and managed in [sem-training](https://github.com/hlzmnhnry/sem-training).
